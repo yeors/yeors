@@ -41,10 +41,12 @@ Sketchup
  
 <!-- BLOG-POST-LIST:END -->
 
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
-<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
+<A HREF="otra_pagina.html"> ¿Como Crear un Gist y para qué? </A> <br>
