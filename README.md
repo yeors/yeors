@@ -35,7 +35,7 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 <!-- BLOG-POST-LIST:END -->
 
 <A HREF="https://www.jorgehglez.com/"> My Developer Portafolio </A> <br>
-<A HREF="https://3dwarehouse.sketchup.com/user/8849134d-d86b-417a-a8a9-a8b1b9b911d2/Jorge-Horacio-G"> My Portafolio of 3D models in Sketchup () </A> <br>
+<A HREF="https://3dwarehouse.sketchup.com/user/8849134d-d86b-417a-a8a9-a8b1b9b911d2/Jorge-Horacio-G"> My Portafolio of 3D models in Sketchup</A> <br>
 <A HREF="https://www.sciencengeeks.com"> Science N Geeks, Noticias y tutoriales </A> <br>
 <A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-kl25z-development-board"> GitHub Repository with applications with the FRDM-KL25Z </A> <br>
 <A HREF="otra_pagina.html"> GitHub Repository with applications with the FRDM-KL25ZF </A> <br>
