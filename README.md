@@ -13,8 +13,6 @@ I am a Embedded Software Engineer from Guadalajara, Jalisco, México. My interes
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JorgeHoracioG10)
 
-Sketchup
-
 <br>
 
 ## Expertise
@@ -37,8 +35,9 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 <!-- BLOG-POST-LIST:END -->
 
 <A HREF="https://www.jorgehglez.com/"> My Developer Portafolio </A> <br>
+<A HREF="https://3dwarehouse.sketchup.com/user/8849134d-d86b-417a-a8a9-a8b1b9b911d2/Jorge-Horacio-G"> My Portafolio of 3D models in Sketchup () </A> <br>
 <A HREF="https://www.sciencengeeks.com"> Science N Geeks, Noticias y tutoriales </A> <br>
-<A HREF="otra_pagina.html"> GitHub Repository with applications with the FRDM-KL25Z </A> <br>
+<A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-kl25z-development-board"> GitHub Repository with applications with the FRDM-KL25Z </A> <br>
 <A HREF="otra_pagina.html"> GitHub Repository with applications with the FRDM-KL25ZF </A> <br>
 <A HREF="otra_pagina.html"> GitHub Repository with applications with the ESP32 and FreeRTOS </A> <br>
 <A HREF="otra_pagina.html"> How to create a Gist and why? </A> <br>
@@ -48,13 +47,10 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 <A HREF="otra_pagina.html"> OpenCV Repository with the basics </A> <br>
 <A HREF="otra_pagina.html"> Training a model to detect neumonia with TensorFlow </A> <br>
 <A HREF="otra_pagina.html"> ¿Es posible fabricar el auto de los supersónicos? </A> <br>
-<A HREF="otra_pagina.html"> My Portafolio of 3D models in Sketchup () </A> <br>
 <A HREF="otra_pagina.html"> ¿Cuál distribución de Linux elegir? </A> <br>
 <A HREF="otra_pagina.html"> ¿Mi experiencia con GitKraken? </A> <br>
 <A HREF="otra_pagina.html"> LaTEX repository with templates </A> <br>
 <A HREF="otra_pagina.html"> My plataform for the IoT </A> <br>
 <A HREF="otra_pagina.html"> ¿Cómo empezar con el Kernel de Linux? </A> <br>
 <A HREF="otra_pagina.html"> Reality will be full of catomes, claytronics </A> <br>
-
-
 
