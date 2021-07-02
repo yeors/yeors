@@ -58,11 +58,3 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 
 
 
-
-
-
-
-
-
-
-
