@@ -38,10 +38,10 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 <A HREF="https://3dwarehouse.sketchup.com/user/8849134d-d86b-417a-a8a9-a8b1b9b911d2/Jorge-Horacio-G"> My Portafolio of 3D models in Sketchup</A> <br>
 <A HREF="https://www.sciencengeeks.com"> Science N Geeks, Noticias y tutoriales </A> <br>
 <A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-kl25z-development-board"> GitHub Repository with applications with the FRDM-KL25Z </A> <br>
-<A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-kl25z-development-board"> GitHub Repository with applications with the FRDM-KL25ZF </A> <br>
+<A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-kl64f-development-board"> GitHub Repository with applications with the FRDM-K64F </A> <br>
 <A HREF="https://www.jorgehglez.com/projects/electronics/github-repository-with-applications-for-the-esp32-development-board"> GitHub Repository with applications with the ESP32 and FreeRTOS </A> <br>
 <A HREF="https://www.jorgehglez.com/blog/howtocreateagistandwhy"> How to create a Gist and why? </A> <br>
-<A HREF="https://www.jorgehglez.com/blog/electronictattool"> Electronic Tattoo (wearable) </A> <br>
+<A HREF="https://www.jorgehglez.com/blog/electronictattoo"> Electronic Tattoo (wearable) </A> <br>
 <A HREF="https://www.jorgehglez.com/blog/javarepository"> Java Repository with the basics of language </A> <br>
 <A HREF="https://www.jorgehglez.com/blog/pythonrepository"> Python Repository with the basics of language </A> <br>
 <A HREF="https://www.jorgehglez.com/blog/opencv"> OpenCV Repository with the basics </A> <br>
