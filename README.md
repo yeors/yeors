@@ -51,4 +51,4 @@ Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, as
 <A HREF="https://www.jorgehglez.com/blog/gitkraken"> Full course of GitKraken </A> <br>
 <A HREF="https://www.jorgehglez.com/blog/latex"> LaTEX repository with templates </A> <br>
 <A HREF="https://www.jorgehglez.com/projects/electronics/web-monitoring-for-devices-iot"> My plataform for the IoT </A> <br>
-<A HREF="otra_pagina.html"> ¿Cómo empezar con el Kernel de Linux? </A> <br>
+<A HREF="https://www.jorgehglez.com/blog/a-beginners-guide-to-linux-kernel-development"> ¿Cómo empezar con el Kernel de Linux? </A> <br>
