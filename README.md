@@ -13,7 +13,8 @@ I am a Embedded Software Engineer from Guadalajara, Jalisco, México. My interes
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JorgeHoracioG10)
 
-<br>
+<br><br><br>
+
 
 ## Expertise
 Kinetis Microcontrollers, FPGA's Xilinx Spartan, DSP, Embedded C/C++, Python, assembly language, Embedded Linux, Labview, VSCode, Linux shell, VHDL, MATLAB with Simulink, EAGLE PCB Design or lay out, Altium, Windows Command Prompt, JavaScript, HTML, CCS3, Verilog, Pspice, OS Kernel Linux, KiCad, Multisim, Codewarrior, Kinetis Design Studio, GNU/Linux (Ubuntu, Centos), FreeRTOS, MQX RTOS, GitHub, Git, Agile Methodologies, Sketchup, UML Design Model, D4D Multimedia driver, debugging skills, LaTex for papers, ARM architectures, IPC standards, JTAG, Multilink, logic analyzer, JEDEC/IPC standards for PCB, heat gun, power sources, data sheets and generation of technical documentation, configuration of switches and routers, Lab Equipment. 
